@@ -20,7 +20,5 @@ let state;
 //null=> standalone value
 //undefined=>
 //symbol => unique
-
 //object
-
-console.log(typeof "Nitesh")
+console.log(typeof"Nitesh")
